@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kruthika-code/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kruthika-code/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kruthika-code/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kruthika-code/leetcode-solution/tree/master/0022-generate-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kruthika-code/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Kruthika-code/leetcode-solution/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -78,10 +80,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kruthika-code/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kruthika-code/leetcode-solution/tree/master/0022-generate-parentheses) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Kruthika-code/leetcode-solution/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Kruthika-code/leetcode-solution/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Kruthika-code/leetcode-solution/tree/master/0182-duplicate-emails) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kruthika-code/leetcode-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
