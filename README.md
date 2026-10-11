@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Kruthika-code/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Kruthika-code/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kruthika-code/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kruthika-code/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kruthika-code/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kruthika-code/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
