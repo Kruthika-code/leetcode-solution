@@ -13,10 +13,9 @@ class Solution:
             left_ways = helper(left)
             right_ways = helper(right)
             
-            # Combinatorics: choose len(left) positions out of len(left) + len(right)
+
             comb = math.comb(len(left) + len(right), len(left))
             
             return (left_ways * right_ways * comb) % MOD
-            
-        # Subtract 1 because the original array ordering itself shouldn't be counted as a "reordering"
+
         return (helper(nums) - 1 + MOD) % MOD
